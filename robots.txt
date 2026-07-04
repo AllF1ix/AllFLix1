@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://allf1ix.github.io/sitemap.xml
