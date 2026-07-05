@@ -2395,12 +2395,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://allf1ix.github.io/movie/whiplash-2014-244786</loc>
-    <lastmod>2026-07-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://allf1ix.github.io/movie/john-wick-2014-245891</loc>
     <lastmod>2026-07-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -3061,12 +3055,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://allf1ix.github.io/movie/minions-the-rise-of-gru-2022-438148</loc>
-    <lastmod>2026-07-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://allf1ix.github.io/movie/dune-2021-438631</loc>
     <lastmod>2026-07-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -3260,6 +3248,12 @@
   </url>
   <url>
     <loc>https://allf1ix.github.io/movie/midsommar-2019-530385</loc>
+    <lastmod>2026-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://allf1ix.github.io/movie/tron-ares-2025-533533</loc>
     <lastmod>2026-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -4148,6 +4142,12 @@
   </url>
   <url>
     <loc>https://allf1ix.github.io/movie/toy-story-5-2026-1084244</loc>
+    <lastmod>2026-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://allf1ix.github.io/movie/how-to-train-your-dragon-2025-1087192</loc>
     <lastmod>2026-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -7915,6 +7915,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://allf1ix.github.io/tv/ncis-los-angeles-2009-17610</loc>
+    <lastmod>2026-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://allf1ix.github.io/tv/southland-2009-17611</loc>
     <lastmod>2026-07-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -9013,12 +9019,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://allf1ix.github.io/tv/chicago-med-2015-62650</loc>
-    <lastmod>2026-07-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://allf1ix.github.io/tv/supergirl-2015-62688</loc>
     <lastmod>2026-07-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -9506,12 +9506,6 @@
   </url>
   <url>
     <loc>https://allf1ix.github.io/tv/the-ancient-magus-bride-2017-73833</loc>
-    <lastmod>2026-07-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://allf1ix.github.io/tv/the-resident-2018-74016</loc>
     <lastmod>2026-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -11360,6 +11354,12 @@
   </url>
   <url>
     <loc>https://allf1ix.github.io/tv/notes-from-the-last-row-2026-286360</loc>
+    <lastmod>2026-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://allf1ix.github.io/tv/magical-girl-lyrical-nanoha-exceeds-gun-blaze-vengeance-2026-287075</loc>
     <lastmod>2026-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
