@@ -7,6 +7,8 @@ on:
     - cron: "0 2 * * *"
   push:
     branches: [main]
+    paths-ignore:
+      - 'sitemap.xml'
   workflow_dispatch:
 
 permissions:
